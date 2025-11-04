@@ -1,5 +1,3 @@
 # DSC180A-Methodology-3
-Guoxuan Xu
-g7xu@ucsd.edu
-
-Juntong Ye
+Guoxuan Xu and Juntong Ye
+g7xu@ucsd.edu and juy037@ucsd.edu
